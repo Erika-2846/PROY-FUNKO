@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+}
+
+.container__nav{
+    display: inline-block;
+    background-color: #30343F;
+    color: white;
+    letter-spacing: 1px;;
+    word-spacing: 15px;;
+}
+
+.carrito{
+    width: 30px;
+    height: 30px;
+    }
+/*
+.container__footer{
+    display: inline-block;
+    background-color: #30343F;
+    color: white;
+}
+*/
+
+.funko{
+    
+}
